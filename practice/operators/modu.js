@@ -1,0 +1,10 @@
+var a = 95;
+var b = 20;
+var c = a % b;
+console.log(c);
+var x = 55;
+x++;
+console.log(x);
+var y = 55;
+y--;
+console.log(y);

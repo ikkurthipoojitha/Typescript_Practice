@@ -1,0 +1,9 @@
+var arr = new Array("JavaTpoint", "2300", "Java", "Abhishek");
+//Passing arrays in function  
+function display(arr_values) {
+    for (var i = 0; i < arr_values.length; i++) {
+        console.log(arr[i]);
+    }
+}
+//Calling arrays in function  
+display(arr);
